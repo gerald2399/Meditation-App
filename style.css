@@ -149,7 +149,7 @@ video {
   .sound-container {
     position: absolute;
     left: 25%;
-    bottom: 15px;
+    bottom: 0;
     height: auto;
     flex-direction: row;
     align-items: flex-end;
